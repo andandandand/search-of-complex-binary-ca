@@ -21,4 +21,6 @@ Hitting the **RUN** button in the UI will start the genetic search of CA whose b
 
 The cellular automaton in the population with behavior closer to the GoL will evolve on the right panel. 
 
-*Export to Mathematica* creates a notebook with the found automata with rule number specified in Wolfram code.
+**View Data** shows the log of all CA identified. The app automatically captures all automata with behavioral measures with less than 0.01 difference with the Game of Life and stores them is HSQL tables. This may take several hours on a powerful computer with 8 GB of RAM. 
+
+**Export to Mathematica** creates a notebook with the found automata with rule number specified in Wolfram code.

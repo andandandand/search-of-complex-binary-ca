@@ -21,4 +21,4 @@ Hitting the **RUN** button in the UI will start the genetic search of CA whose b
 
 The cellular automaton in the population with behavior closer to the GoL will evolve on the right panel. 
 
-*Export to Mathematica* creates a notebook with the found automata in Wolfram code. 
+*Export to Mathematica* creates a notebook with the found automata with rule number specified in Wolfram code.

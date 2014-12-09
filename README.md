@@ -10,3 +10,11 @@ Preprint, *Mathematica* demos of complex CA found, and search algorithm implemen
 
 After downloading the discoverer_xx.zip file, decompress it and run
 
+
+```
+#!bash
+
+ java -jar discoverer_5_2.jar
+```
+
+from a command line. 

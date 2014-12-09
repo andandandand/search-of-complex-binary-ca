@@ -19,4 +19,6 @@ After downloading the discoverer_1_0.zip file, decompress it and run from a comm
 
 Hitting the **RUN** button in the UI will start the genetic search of CA whose behavioral measures are close to the Game of the Life in the non-totalistic Moore neighborhood.
 
-The cellular automaton in the population with behavior closer to the GoL will evolve on the right panel.   
+The cellular automaton in the population with behavior closer to the GoL will evolve on the right panel. 
+
+*Export to Mathematica* creates a notebook with the found automata in Wolfram code. 

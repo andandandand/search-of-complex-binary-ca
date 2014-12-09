@@ -8,7 +8,7 @@ Preprint, *Mathematica* demos of complex CA found, and search algorithm implemen
 
 *Java 6+ required. 
 
-After downloading the discoverer_1_0.zip file, decompress it and run
+After downloading the discoverer_1_0.zip file, decompress it and run from a command line
 
 
 ```
@@ -17,4 +17,4 @@ After downloading the discoverer_1_0.zip file, decompress it and run
  java -jar discoverer_5_2.jar
 ```
 
-from a command line.
+Hitting the RUN button in the UI will start the search of CA whose behavioral metrics are close to the Game of the Life in the non-totalistic Moore neighborhood.

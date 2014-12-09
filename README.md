@@ -8,7 +8,7 @@ Preprint, *Mathematica* demos of complex CA found, and search algorithm implemen
 
 *Java 6+ required. 
 
-After downloading the discoverer_xx.zip file, decompress it and run
+After downloading the discoverer_1_0.zip file, decompress it and run
 
 
 ```
@@ -17,4 +17,4 @@ After downloading the discoverer_xx.zip file, decompress it and run
  java -jar discoverer_5_2.jar
 ```
 
-from a command line. 
+from a command line.

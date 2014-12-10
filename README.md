@@ -14,7 +14,7 @@ After downloading the discoverer_1_0.zip file, decompress it and run from a comm
 ```
 #!bash
 
- java -jar discoverer_5_2.jar
+ java -jar ca-discoverer.jar
 ```
 
 Hitting the **RUN** button in the UI will start the genetic search of CA whose behavioral measures are close to the Game of the Life in the non-totalistic Moore neighborhood with radius = 1.

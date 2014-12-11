@@ -23,6 +23,6 @@ Hitting the **RUN** button in the UI will start the genetic search of CA whose b
 
 The cellular automaton in the population with behavior closer to the GoL will evolve on the right panel. 
 
-**View Data** shows the log of all CA selected from the population. The app automatically saves all cellular automata with behavioral measures with less than 0.01 difference with the Game of Life and stores them using HSQL. This *"full completion"* may take several hours on a powerful computer (more RAM = faster completion). 
+**Examine Fittest** shows the log of all CA selected from the population. The app automatically saves all cellular automata with behavioral measures with less than 0.01 difference with the Game of Life and stores them using HSQL. This *"full completion"* may take several hours on a powerful computer (more RAM = faster completion). 
 
 **Export to Mathematica** creates a notebook with the found automata, their rule numbers are specified in Wolfram code.

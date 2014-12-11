@@ -6,7 +6,9 @@ Preprint, *Mathematica* demos of complex CA found, and search algorithm implemen
 
 ##Instructions to run the Discoverer search app##
 
-*Java 6+ required. 
+![ca-discoverer.png](https://bitbucket.org/repo/dodynj/images/244061540-ca-discoverer.png)
+
+***Java 6+ required.** 
 
 After downloading the discoverer_1_0.zip file, decompress it and run from a command line
 

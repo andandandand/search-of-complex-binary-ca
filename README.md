@@ -2,7 +2,9 @@
 
 ![self-rep3.PNG](https://bitbucket.org/repo/dodynj/images/4082026190-self-rep3.PNG)
 
-Preprint, *Mathematica* demos of complex CA found, and search algorithm implementation in Java.
+ *Mathematica* demos of complex CA Life-like found, and search algorithm implementation in Java.
+
+[The final version of our paper can be found in Complex Systems.](http://www.complex-systems.com/abstracts/v24_i01_a01.html "View abstract and download link")
 
 ##Instructions to run the Discoverer search app##
 
